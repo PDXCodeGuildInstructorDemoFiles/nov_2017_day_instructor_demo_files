@@ -1,0 +1,4 @@
+I am 1ine one from text_fi1e.txt.
+I am 1ine two.
+
+I am 1ine four.
