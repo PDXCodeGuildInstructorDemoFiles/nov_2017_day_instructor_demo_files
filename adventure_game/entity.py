@@ -23,6 +23,6 @@ class Creature:
 
 if __name__ == '__main__':
     a = Creature()
-    print([a])
-    print(a.name)
-    print(a.weapon.name)
+    # print([a])
+    # print(a.name)
+    # print(a.weapon.name)
