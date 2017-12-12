@@ -39,6 +39,11 @@ class BankAccount:
         else:
             print("I'm sorry {}, you do not have enough money for that.".format(self.name))
 
+    def __str__(self):
+        return '{}, Balance: ${}'.format(self.name, self.balance)
+
+    def __repr__(self):
+        return self.__str__()
 
 
 class BankAccountPlus(BankAccount):
@@ -66,13 +71,15 @@ if __name__ == "__main__":
     #     query = input("What would you like to do. ")
     #     if query == '1':
     #
-
-    print(sheri_account.name)
-    sheri_account.deposit(1000)
-    sheri_account.withdraw(900)
-
-    print()
-
-    print(chris_account.name)
-    chris_account.deposit(100)
-    chris_account.withdraw(90)
+    print(sheri_account)
+    print(chris_account)
+    print([sheri_account, chris_account])
+    # print(sheri_account.name)
+    # sheri_account.deposit(1000)
+    # sheri_account.withdraw(900)
+    #
+    # print()
+    #
+    # print(chris_account.name)
+    # chris_account.deposit(100)
+    # chris_account.withdraw(90)
