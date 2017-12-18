@@ -16,7 +16,7 @@ card_values = {
     'Queen': 10
 }
 
-suits = ['Hearts', 'Diamonds', 'Spades', 'Clubs']
+i_like_pie = ['Hearts', 'Diamonds', 'Spades', 'Clubs']
 
 
 class Card:
@@ -34,7 +34,7 @@ class Card:
 
 deck = []
 
-for s in suits:
+for s in i_like_pie:
     for rank, value in card_values.items():
         deck.append(Card(s, rank, value))
 random.shuffle(deck)
