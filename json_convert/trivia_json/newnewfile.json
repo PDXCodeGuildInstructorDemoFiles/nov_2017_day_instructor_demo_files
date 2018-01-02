@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Who is Batman?",
+    "answer": 1,
+    "options": [
+      "Barry Allen",
+      "Bruce Wayne",
+      "Tony Stark",
+      "Clark Kent"
+    ]
+  },
+  {
+    "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+    "answer": 3,
+    "options": [
+      "Tiger Mafia",
+      "Scorpio",
+      "The Union",
+      "Zodiac"
+    ]
+  },
+  {
+    "question": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+    "answer": 1,
+    "options": [
+      "Clayface",
+      "Scarecrow",
+      "Bane",
+      "Calendar Man"
+    ]
+  },
+  {
+    "question": "Who is the creator of the comic series &quot;The Walking Dead&quot;?",
+    "answer": 2,
+    "options": [
+      "Stan Lee",
+      "Malcolm Wheeler-Nicholson",
+      "Robert Kirkman",
+      "Robert Crumb"
+    ]
+  },
+  {
+    "question": "What was the name of the first Robin in the Batman comics?",
+    "answer": 0,
+    "options": [
+      "Dick Grayson",
+      "Jason Todd",
+      "Bruce Wayne",
+      "Tim Drake"
+    ]
+  },
+  {
+    "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+    "answer": 3,
+    "options": [
+      "Albert and Pogo",
+      "Winnie the Pooh",
+      "Peanuts",
+      "Calvin and Hobbes"
+    ]
+  },
+  {
+    "question": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+    "answer": 0,
+    "options": [
+      "Antimony",
+      "Bismuth",
+      "Cobalt",
+      "Mercury"
+    ]
+  },
+  {
+    "question": "In what Homestuck Update was [S] Game Over released?",
+    "answer": 0,
+    "options": [
+      "October 25th, 2014",
+      "April 13th, 2009",
+      "April 8th, 2012",
+      "August 28th, 2003"
+    ]
+  },
+  {
+    "question": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+    "answer": 2,
+    "options": [
+      "Yellow Moon",
+      "Golden City",
+      "Prospit",
+      "No Name"
+    ]
+  },
+  {
+    "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+    "answer": 0,
+    "options": [
+      "Green Arrow",
+      "Batman",
+      "Superman",
+      "Steve Trevor"
+    ]
+  },
+  {
+    "question": "This Marvel superhero is often called &quot;The man without fear&quot;.",
+    "answer": 3,
+    "options": [
+      "Hulk",
+      "Wolverine",
+      "Thor",
+      "Daredevil"
+    ]
+  },
+  {
+    "question": "In Pre-Super Genesis universe of &quot;Sonic the Hedgehog&quot; comic, what was the name of  Sally Acorn&#039;s brother?",
+    "answer": 1,
+    "options": [
+      "Frederick Acorn",
+      "Elias Acorn",
+      "Maximillian Acorn",
+      "Alexis Acorn"
+    ]
+  },
+  {
+    "question": "Which issue of the &quot;Sonic the Hedgehog&quot; comic did Scourge the Hedgehog make his first appearance?",
+    "answer": 3,
+    "options": [
+      "Sonic the Hedgehog #47",
+      "Sonic the Hedgehog #161",
+      "Sonic Universe #32",
+      "Sonic the Hedgehog #11"
+    ]
+  },
+  {
+    "question": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+    "answer": 1,
+    "options": [
+      "Snively Robotnik",
+      "Professor Charles the Hedgehog",
+      "Julian Robotnik",
+      "Ivo Robotnik"
+    ]
+  },
+  {
+    "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+    "answer": 1,
+    "options": [
+      "Super Monkey Ball",
+      "Mega Man",
+      "Alex Kidd",
+      "Super Mario Brothers"
+    ]
+  },
+  {
+    "question": "Who wrote the Batman comic series &quot;The Killing Joke&quot;?",
+    "answer": 0,
+    "options": [
+      "Alan Moore",
+      "Bill Finger",
+      "Frank Miller",
+      "Jerry Siegel"
+    ]
+  },
+  {
+    "question": "What year was the first San Diego Comic-Con?",
+    "answer": 2,
+    "options": [
+      "2000",
+      "1990",
+      "1970",
+      "1985"
+    ]
+  },
+  {
+    "question": "When was the Garfield comic first published?",
+    "answer": 0,
+    "options": [
+      "1978",
+      "1988",
+      "1973",
+      "1982"
+    ]
+  },
+  {
+    "question": "Who authored The Adventures of Tintin?",
+    "answer": 0,
+    "options": [
+      "Herg&eacute;",
+      "E.P. Jacobs",
+      "Rin Tin Tin",
+      "Chic Young"
+    ]
+  },
+  {
+    "question": "What is the designation given to the Marvel Cinematic Universe?",
+    "answer": 2,
+    "options": [
+      "Earth-10005",
+      "Earth-2008",
+      "Earth-199999",
+      "Earth-616"
+    ]
+  },
+  {
+    "question": "Who created Ultron of Earth-616?",
+    "answer": 3,
+    "options": [
+      "Amadeus Cho",
+      "Reed Richards",
+      "Tony Stark",
+      "Henry Pym"
+    ]
+  },
+  {
+    "question": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+    "answer": 0,
+    "options": [
+      "Blonde",
+      "Auburn",
+      "Black",
+      "Brown"
+    ]
+  },
+  {
+    "question": "In what year did the first &quot;The Walking Dead&quot; comic come out?",
+    "answer": 2,
+    "options": [
+      "1999",
+      "2001",
+      "2003",
+      "2006"
+    ]
+  },
+  {
+    "question": "In the comics, which Sonic character took command of the Dark Legion after Luger&#039;s assassination?",
+    "answer": 1,
+    "options": [
+      "Dimitri",
+      "Lien-Da",
+      "Remington",
+      "Kragok"
+    ]
+  },
+  {
+    "question": "In the &quot;Archie&quot; comics, who was Jughead&#039;s first girlfriend?",
+    "answer": 1,
+    "options": [
+      "Debbi",
+      "Joani",
+      "Ethel",
+      "Margret"
+    ]
+  },
+  {
+    "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+    "answer": 0,
+    "options": [
+      "Clark Kent",
+      "Arthur Curry",
+      "John Jones",
+      "Bruce Wayne"
+    ]
+  },
+  {
+    "question": "In the webcomic &quot;Ava&#039;s Demon&quot;, what sin is &quot;Nevy Nervine&quot; based off of? ",
+    "answer": 0,
+    "options": [
+      "Envy ",
+      "Lust",
+      "Sloth",
+      "Wrath "
+    ]
+  },
+  {
+    "question": "Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?",
+    "answer": 2,
+    "options": [
+      "Black Canary",
+      "Emiko Queen",
+      "Roy Harper",
+      "Dick Grayson"
+    ]
+  },
+  {
+    "question": "Which Batman sidekick is the son of Talia al Ghul?",
+    "answer": 0,
+    "options": [
+      "Damian Wayne",
+      "Jason Todd",
+      "Tim Drake",
+      "Dick Grayson"
+    ]
+  },
+  {
+    "question": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+    "answer": 1,
+    "options": [
+      "Jay Garrick",
+      "Wally West",
+      "Johnny Quick",
+      "Eobard Thawne"
+    ]
+  }
+]

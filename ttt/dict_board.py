@@ -1,0 +1,2 @@
+class DictTTTBoard:
+    pass

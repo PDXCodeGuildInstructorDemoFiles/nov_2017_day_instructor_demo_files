@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forms are so cool!!!1!</title>
+</head>
+<body>
+<div>
+    <!--<form method="post" action="html_example.html">-->
+    <!--<label for="username">User Name: </label>-->
+    <!--<input type="text" name="username" id="username" placeholder="UserName">-->
+    <!--<br>-->
+    <!--<label for="password">Password: </label>-->
+    <!--<input type="password" name="password" id="password" required>-->
+    <!--<br>-->
+    <!--<input type="submit">-->
+    <!--</form>-->
+    <form action="">
+        <label for="carName">Car Name: </label>
+        <input type="text" name="carName" id="carName" placeholder="UserName">
+        <br>
+
+        <label for="make">Make: </label>
+        <select name="make" id="make">
+            <option value="5013215">Ford</option>
+            <option value="Chevy" selected>Chevy</option>
+            <option value="fiat">Fiat</option>
+            <option value="audi">Audi</option>
+        </select>
+        <br>
+        <input type="checkbox" name="checkBoxChoice" value="1">1
+        <input type="checkbox" name="checkBoxChoice" value="2">2
+        <input type="checkbox" name="checkBoxChoice" value="3">3
+        <input type="checkbox" name="checkBoxChoice" value="4">4
+        <br>
+        <input type="datetime-local">
+        <br>
+        <input type="color">
+        <br>
+        <input type="url">
+        <br>
+        <input type="number">
+        <br>
+        <input type="file" multiple>
+        <br>
+        <input type="radio" name="radioChoices" value="2">2
+        <input type="radio" name="radioChoices" value="3">3
+        <input type="radio" name="radioChoices2" value="4">4
+        <input type="radio" name="radioChoices2" value="5">5
+        <br>
+        <label for="browsers">Car Bio: </label>
+        <input list="browsers">
+        <datalist id="browsers">
+            <option value="Internet Explorer">
+            <option value="Firefox">
+            <option value="Chrome">
+            <option value="Opera">
+            <option value="Safari">
+        </datalist>
+
+        <br>
+        <label for="carBio">Car Bio: </label>
+        <br>
+        <textarea name="carBio" id="carBio" rows="10" cols="50" placeholder="This is placeholder text." maxlength="140"></textarea>
+        <br>
+        <button id="sayHello" onclick="hello()">this is a custom button</button>
+        <input type="submit" disabled>
+    </form>
+</div>
+<script>
+    //    document.getElementById('sayHello').addEventListener('click', function (e) {
+    //        e.preventDefault();
+    //        alert('Hello!')
+    //    })
+    function hello() {
+        event.preventDefault();
+        alert('Hello')
+    }
+</script>
+</body>
+</html>
