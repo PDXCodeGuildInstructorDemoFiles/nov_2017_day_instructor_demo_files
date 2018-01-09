@@ -1,5 +1,6 @@
 import unittest
-from atm.atm_interface import Account
+
+from python.atm.atm_interface import Account
 
 
 class TestAccountCreation(unittest.TestCase):

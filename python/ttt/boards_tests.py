@@ -2,7 +2,8 @@ import unittest
 
 from ttt.coords_board import CoordsTTTBoard
 from ttt.dict_board import DictTTTBoard
-from ttt.list_board import ListTTTBoard
+
+from python.ttt.list_board import ListTTTBoard
 
 
 class BaseBoardTest:

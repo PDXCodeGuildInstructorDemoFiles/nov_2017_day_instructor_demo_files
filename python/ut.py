@@ -1,5 +1,6 @@
 import unittest
-from card_dexk_example import Card, Deck
+
+from python.card_dexk_example import Card, Deck
 
 
 class TestCard(unittest.TestCase):
